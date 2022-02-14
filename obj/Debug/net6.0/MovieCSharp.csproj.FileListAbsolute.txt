@@ -1,0 +1,15 @@
+C:\Users\Team Knowhow\Desktop\MovieCSharp\bin\Debug\net6.0\MovieCSharp.exe
+C:\Users\Team Knowhow\Desktop\MovieCSharp\bin\Debug\net6.0\MovieCSharp.deps.json
+C:\Users\Team Knowhow\Desktop\MovieCSharp\bin\Debug\net6.0\MovieCSharp.runtimeconfig.json
+C:\Users\Team Knowhow\Desktop\MovieCSharp\bin\Debug\net6.0\MovieCSharp.dll
+C:\Users\Team Knowhow\Desktop\MovieCSharp\bin\Debug\net6.0\ref\MovieCSharp.dll
+C:\Users\Team Knowhow\Desktop\MovieCSharp\bin\Debug\net6.0\MovieCSharp.pdb
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.csproj.AssemblyReference.cache
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.AssemblyInfoInputs.cache
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.AssemblyInfo.cs
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.dll
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\ref\MovieCSharp.dll
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.pdb
+C:\Users\Team Knowhow\Desktop\MovieCSharp\obj\Debug\net6.0\MovieCSharp.genruntimeconfig.cache
